@@ -39,7 +39,7 @@
                 /**
                  * Access a safe and retrieve any values in it
                  * @param {String} secret The secret of the safe you want to access
-                 * @return {Object} The safe
+                 * @return {Object|undefined} The safe or undefined if an invalid secret was provided
                  */
                 access: function(secret)
                 {
