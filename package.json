@@ -1,0 +1,36 @@
+{
+  "name": "safe",
+  "version": "1.0.0",
+  "description": "A module for providing private, client-side, self-contained, storage of arbitrary data.",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js",
+    "LICENSE"
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m3talstorm/safe"
+  },
+  "bugs": {
+    "url": "https://github.com/m3talstorm/safe/issues"
+  },
+  "keywords": [
+    "safe",
+    "storage",
+    "private",
+    "node",
+    "nodejs"
+  ],
+  "author": "Stuart Bannerman",
+  "contributors": [
+  ],
+  "license": "MIT"
+}
